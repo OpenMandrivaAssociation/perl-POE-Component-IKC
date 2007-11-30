@@ -1,6 +1,6 @@
 
 %define realname   POE-Component-IKC
-%define version    0.1904
+%define version    0.2000
 %define release    %mkrel 1
 
 Name:       perl-%{realname}
