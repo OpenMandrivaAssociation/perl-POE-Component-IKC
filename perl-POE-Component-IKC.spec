@@ -6,7 +6,7 @@ Release:	3
 License:	GPL or Artistic
 Group:		Development/Perl
 Summary:	POE IKC proxy session
-Url:		http://search.cpan.org/dist/%{realname}
+Url:		https://search.cpan.org/dist/%{realname}
 Source:		http://www.cpan.org/modules/by-module/POE/%{realname}-%{version}.tar.gz
 
 BuildRequires:	perl-devel
