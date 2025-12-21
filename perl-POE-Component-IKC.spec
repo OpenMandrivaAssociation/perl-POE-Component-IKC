@@ -9,6 +9,7 @@ Summary:	POE IKC proxy session
 Url:		https://search.cpan.org/dist/%{realname}
 Source:		http://www.cpan.org/modules/by-module/POE/%{realname}-%{version}.tar.gz
 
+BuildRequires:	make
 BuildRequires:	perl-devel
 BuildRequires:	perl(POE)
 BuildRequires:	perl(Scalar::Util)
